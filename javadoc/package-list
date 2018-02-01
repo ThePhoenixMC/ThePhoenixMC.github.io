@@ -2,6 +2,7 @@ com.lss233.phoenix
 com.lss233.phoenix.block
 com.lss233.phoenix.builtin
 com.lss233.phoenix.builtin.commands
+com.lss233.phoenix.builtin.listener
 com.lss233.phoenix.channel
 com.lss233.phoenix.command
 com.lss233.phoenix.config
