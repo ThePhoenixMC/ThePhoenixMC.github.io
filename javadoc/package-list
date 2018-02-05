@@ -1,5 +1,7 @@
 com.lss233.phoenix
 com.lss233.phoenix.block
+com.lss233.phoenix.block.tileentity
+com.lss233.phoenix.block.tileentity.carrier
 com.lss233.phoenix.builtin
 com.lss233.phoenix.builtin.commands
 com.lss233.phoenix.builtin.listener
