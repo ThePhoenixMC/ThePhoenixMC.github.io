@@ -23,6 +23,8 @@ com.lss233.phoenix.event.network
 com.lss233.phoenix.event.phoenix
 com.lss233.phoenix.event.player
 com.lss233.phoenix.item.inventory
+com.lss233.phoenix.item.inventory.equipment
+com.lss233.phoenix.item.inventory.property
 com.lss233.phoenix.logging
 com.lss233.phoenix.math
 com.lss233.phoenix.module
