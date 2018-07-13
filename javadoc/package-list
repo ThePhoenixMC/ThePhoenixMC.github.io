@@ -10,6 +10,7 @@ com.lss233.phoenix.command
 com.lss233.phoenix.config
 com.lss233.phoenix.config.json
 com.lss233.phoenix.data
+com.lss233.phoenix.data.key
 com.lss233.phoenix.data.value
 com.lss233.phoenix.entity
 com.lss233.phoenix.entity.living
@@ -22,6 +23,7 @@ com.lss233.phoenix.event.item.inventory
 com.lss233.phoenix.event.network
 com.lss233.phoenix.event.phoenix
 com.lss233.phoenix.event.player
+com.lss233.phoenix.item.enchantment
 com.lss233.phoenix.item.inventory
 com.lss233.phoenix.item.inventory.equipment
 com.lss233.phoenix.item.inventory.property
