@@ -31,7 +31,7 @@ com.lss233.phoenix.logging
 com.lss233.phoenix.math
 com.lss233.phoenix.module
 com.lss233.phoenix.orm
-com.lss233.phoenix.permissions.Permissible
+com.lss233.phoenix.permissions
 com.lss233.phoenix.text
 com.lss233.phoenix.utils
 com.lss233.phoenix.world
