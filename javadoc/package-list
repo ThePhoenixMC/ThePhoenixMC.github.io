@@ -9,6 +9,8 @@ com.lss233.phoenix.channel
 com.lss233.phoenix.command
 com.lss233.phoenix.config
 com.lss233.phoenix.config.json
+com.lss233.phoenix.config.json.deserializer
+com.lss233.phoenix.config.json.serializer
 com.lss233.phoenix.data
 com.lss233.phoenix.data.key
 com.lss233.phoenix.data.value
